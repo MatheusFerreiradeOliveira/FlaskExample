@@ -7,7 +7,7 @@ pokemons = [
         "id": 1,
         "nome": "Charizard",
         "tipo": "Fogo",
-        "taque": "Rajada de fogo"
+        "ataque": "Rajada de fogo"
     },
     {
         "id": 2,
